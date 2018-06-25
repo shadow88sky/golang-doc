@@ -6,3 +6,5 @@
 [作用域问题](https://studygolang.com/articles/13158)
 # 反射  
 [反射](https://studygolang.com/articles/13178)
+# select的用法
+[golang的select典型用法](https://yanyiwu.com/work/2014/11/08/golang-select-typical-usage.html)
