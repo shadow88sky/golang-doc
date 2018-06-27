@@ -8,3 +8,7 @@
 [反射](https://studygolang.com/articles/13178)
 # select的用法
 [golang的select典型用法](https://yanyiwu.com/work/2014/11/08/golang-select-typical-usage.html)
+# for range  
+* for range 是值拷贝，所以不要试图直接去修改value,即使要修改也要用array[i]的方式  
+* for range 在遍历大数据时，效率不高，需要拷贝数据  
+* for range 写法简单
