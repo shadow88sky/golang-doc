@@ -12,3 +12,4 @@
 * for range 是值拷贝，所以不要试图直接去修改value,即使要修改也要用array[i]的方式  
 * for range 在遍历大数据时，效率不高，需要拷贝数据  
 * for range 写法简单
+[Golang中的range关键字](https://my.oschina.net/u/2612999/blog/908114)
