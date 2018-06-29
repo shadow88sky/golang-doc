@@ -1,3 +1,6 @@
+# make和new的区别  
+[区别](http://sanyuesha.com/2017/07/26/go-make-and-new)
+
 # 指针
 [（译）Go 语言的内存、指针详解](https://studygolang.com/articles/10815)
 # 并发
